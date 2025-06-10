@@ -21,7 +21,7 @@ let ghostImageLocations = [
     { x: 176, y: 121 },
 ];
 
-// Game variables
+
 let fps = 30;
 let pacman;
 let oneBlockSize = 20;
